@@ -1,2 +1,2 @@
 # The-Best-Awesomenest-Dotfiles
-My dotfiles. 
+The best dotfiles.
